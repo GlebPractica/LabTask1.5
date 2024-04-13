@@ -1,0 +1,6 @@
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\bin\Debug\SetLib.dll
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\bin\Debug\SetLib.pdb
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\obj\Debug\SetLib.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\obj\Debug\SetLib.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\obj\Debug\SetLib.dll
+D:\Pairs\KPJP_Practica\Work_1.5\SetLib\obj\Debug\SetLib.pdb
